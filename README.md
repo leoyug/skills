@@ -29,6 +29,12 @@ mkdir -p .agents/skills
 ln -s ~/GitHub/skills/skills/example-skill .agents/skills/example-skill
 ```
 
+Example:
+
+```bash
+ln -s ~/GitHub/skills/skills/baoyu-design .agents/skills/baoyu-design
+```
+
 Codex scans `.agents/skills` from the current working directory up to the
 repository root. Keeping skills project-scoped reduces accidental triggers and
 keeps the initial skills list focused.
@@ -53,3 +59,8 @@ skill discovery noisy.
    when to load the skill.
 4. Test with an explicit invocation like `$skill-name`.
 
+## Collected Skills
+
+| Skill | Source | Notes |
+| --- | --- | --- |
+| `baoyu-design` | https://github.com/JimLiu/baoyu-design/tree/main/skills/baoyu-design | Local design artifact generator for UI mockups, prototypes, decks, wireframes, design systems, and related HTML deliverables. |

@@ -35,6 +35,14 @@ Example:
 ln -s ~/GitHub/skills/skills/baoyu-design .agents/skills/baoyu-design
 ```
 
+For skills with dependencies, link the dependency skills too:
+
+```bash
+ln -s ~/GitHub/skills/skills/grill-with-docs .agents/skills/grill-with-docs
+ln -s ~/GitHub/skills/skills/grilling .agents/skills/grilling
+ln -s ~/GitHub/skills/skills/domain-modeling .agents/skills/domain-modeling
+```
+
 Codex scans `.agents/skills` from the current working directory up to the
 repository root. Keeping skills project-scoped reduces accidental triggers and
 keeps the initial skills list focused.
@@ -64,3 +72,6 @@ skill discovery noisy.
 | Skill | Source | Notes |
 | --- | --- | --- |
 | `baoyu-design` | https://github.com/JimLiu/baoyu-design/tree/main/skills/baoyu-design | Local design artifact generator for UI mockups, prototypes, decks, wireframes, design systems, and related HTML deliverables. |
+| `grill-with-docs` | https://github.com/mattpocock/skills/tree/main/skills/engineering/grill-with-docs | Stateful grilling session for sharpening plans while maintaining glossary and ADR documentation. Depends on `grilling` and `domain-modeling`. |
+| `grilling` | https://github.com/mattpocock/skills/tree/main/skills/productivity/grilling | Reusable interview loop for stress-testing a plan, decision, or idea through rounds of frontier questions. |
+| `domain-modeling` | https://github.com/mattpocock/skills/tree/main/skills/engineering/domain-modeling | Maintains project domain language in `CONTEXT.md` and records meaningful architecture decisions as ADRs. |

@@ -75,3 +75,4 @@ skill discovery noisy.
 | `grill-with-docs` | https://github.com/mattpocock/skills/tree/main/skills/engineering/grill-with-docs | Stateful grilling session for sharpening plans while maintaining glossary and ADR documentation. Depends on `grilling` and `domain-modeling`. |
 | `grilling` | https://github.com/mattpocock/skills/tree/main/skills/productivity/grilling | Reusable interview loop for stress-testing a plan, decision, or idea through rounds of frontier questions. |
 | `domain-modeling` | https://github.com/mattpocock/skills/tree/main/skills/engineering/domain-modeling | Maintains project domain language in `CONTEXT.md` and records meaningful architecture decisions as ADRs. |
+| `web-shader-extractor` | https://github.com/lixiaolin94/skills/tree/main/web-shader-extractor | Extracts, reproduces, and projectizes WebGL, WebGPU, Canvas, shader-like, animated, or interactive web visual effects. |

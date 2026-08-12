@@ -34,3 +34,13 @@ This file records where collected skills came from and how they were imported.
 - Local path: `skills/domain-modeling/`
 - Import date: 2026-08-11
 - Notes: Imported as a dependency of `grill-with-docs`.
+
+## web-shader-extractor
+
+- Source repository: https://github.com/lixiaolin94/skills
+- Imported path: `web-shader-extractor/`
+- Local path: `skills/web-shader-extractor/`
+- Import date: 2026-08-12
+- Notes: Imported only the skill directory, not the full upstream repository.
+  Use for WebGL, WebGPU, Canvas, shader-like, animated, or interactive web
+  visual effect extraction and local replay; not for ordinary DOM/CSS cloning.

@@ -64,3 +64,23 @@ This file records where collected skills came from and how they were imported.
 - Notes: Imported only the skill directory, not the full upstream repository.
   Use for Ian-style Chinese Xiaohei hand-drawn article illustrations, methods,
   workflows, structures, metaphors, and conceptual explanation images.
+
+## character-design
+
+- Source repository: https://github.com/khanhhuyenngo985-sys/character-scene-design-skills
+- Imported path: `skills/character-design/`
+- Local path: `skills/character-design/`
+- Import date: 2026-08-14
+- Notes: Imported only this core skill directory, not the full upstream
+  collection. Use for production-ready character design, proportion locks,
+  turnarounds, wardrobe states, prop anchors, and AI image/video prompt packets.
+
+## scene-design
+
+- Source repository: https://github.com/khanhhuyenngo985-sys/character-scene-design-skills
+- Imported path: `.agents/skills/scene-design/`
+- Local path: `skills/scene-design/`
+- Import date: 2026-08-14
+- Notes: Imported only this core skill directory, not the full upstream
+  collection. The upstream README mentions `skills/scene-design/`, but the
+  actual runtime skill was found under `.agents/skills/scene-design/`.

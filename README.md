@@ -76,3 +76,4 @@ skill discovery noisy.
 | `grilling` | https://github.com/mattpocock/skills/tree/main/skills/productivity/grilling | Reusable interview loop for stress-testing a plan, decision, or idea through rounds of frontier questions. |
 | `domain-modeling` | https://github.com/mattpocock/skills/tree/main/skills/engineering/domain-modeling | Maintains project domain language in `CONTEXT.md` and records meaningful architecture decisions as ADRs. |
 | `web-shader-extractor` | https://github.com/lixiaolin94/skills/tree/main/web-shader-extractor | Extracts, reproduces, and projectizes WebGL, WebGPU, Canvas, shader-like, animated, or interactive web visual effects. |
+| `ian-xiaohei-scenes` | https://github.com/helloianneo/ian-xiaohei-scenes/tree/main/ian-xiaohei-scenes | Generates Chinese Xiaohei 2.0 real-object scene illustrations and long-scroll story images for articles, project retrospectives, and personal narratives. |

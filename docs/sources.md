@@ -44,3 +44,13 @@ This file records where collected skills came from and how they were imported.
 - Notes: Imported only the skill directory, not the full upstream repository.
   Use for WebGL, WebGPU, Canvas, shader-like, animated, or interactive web
   visual effect extraction and local replay; not for ordinary DOM/CSS cloning.
+
+## ian-xiaohei-scenes
+
+- Source repository: https://github.com/helloianneo/ian-xiaohei-scenes
+- Imported path: `ian-xiaohei-scenes/`
+- Local path: `skills/ian-xiaohei-scenes/`
+- Import date: 2026-08-14
+- Notes: Imported only the skill directory, not the full upstream repository.
+  Use for Chinese Xiaohei 2.0 real-object scene illustrations, article images,
+  project retrospectives, personal narratives, and long-scroll story images.

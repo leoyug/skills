@@ -54,3 +54,13 @@ This file records where collected skills came from and how they were imported.
 - Notes: Imported only the skill directory, not the full upstream repository.
   Use for Chinese Xiaohei 2.0 real-object scene illustrations, article images,
   project retrospectives, personal narratives, and long-scroll story images.
+
+## ian-xiaohei-illustrations
+
+- Source repository: https://github.com/helloianneo/ian-xiaohei-illustrations
+- Imported path: `ian-xiaohei-illustrations/`
+- Local path: `skills/ian-xiaohei-illustrations/`
+- Import date: 2026-08-14
+- Notes: Imported only the skill directory, not the full upstream repository.
+  Use for Ian-style Chinese Xiaohei hand-drawn article illustrations, methods,
+  workflows, structures, metaphors, and conceptual explanation images.

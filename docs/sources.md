@@ -84,3 +84,94 @@ This file records where collected skills came from and how they were imported.
 - Notes: Imported only this core skill directory, not the full upstream
   collection. The upstream README mentions `skills/scene-design/`, but the
   actual runtime skill was found under `.agents/skills/scene-design/`.
+
+## impeccable
+
+- Source repository: https://github.com/pbakaus/impeccable
+- Imported path: `.agents/skills/impeccable/`
+- Local path: `skills/impeccable/`
+- Import date: 2026-08-15
+- Notes: Imported only the Codex-compatible skill directory, not the full
+  monorepo, CLI, plugin, extension, demo, or multi-provider distributions.
+
+## gsap-core
+
+- Source repository: https://github.com/greensock/gsap-skills
+- Imported path: `skills/gsap-core/`
+- Local path: `skills/gsap-core/`
+- Import date: 2026-08-15
+- Notes: Imported as part of the official GSAP skills set.
+
+## gsap-timeline
+
+- Source repository: https://github.com/greensock/gsap-skills
+- Imported path: `skills/gsap-timeline/`
+- Local path: `skills/gsap-timeline/`
+- Import date: 2026-08-15
+- Notes: Imported as part of the official GSAP skills set.
+
+## gsap-scrolltrigger
+
+- Source repository: https://github.com/greensock/gsap-skills
+- Imported path: `skills/gsap-scrolltrigger/`
+- Local path: `skills/gsap-scrolltrigger/`
+- Import date: 2026-08-15
+- Notes: Imported as part of the official GSAP skills set.
+
+## gsap-react
+
+- Source repository: https://github.com/greensock/gsap-skills
+- Imported path: `skills/gsap-react/`
+- Local path: `skills/gsap-react/`
+- Import date: 2026-08-15
+- Notes: Imported as part of the official GSAP skills set.
+
+## gsap-frameworks
+
+- Source repository: https://github.com/greensock/gsap-skills
+- Imported path: `skills/gsap-frameworks/`
+- Local path: `skills/gsap-frameworks/`
+- Import date: 2026-08-15
+- Notes: Imported as part of the official GSAP skills set.
+
+## gsap-plugins
+
+- Source repository: https://github.com/greensock/gsap-skills
+- Imported path: `skills/gsap-plugins/`
+- Local path: `skills/gsap-plugins/`
+- Import date: 2026-08-15
+- Notes: Imported as part of the official GSAP skills set.
+
+## gsap-performance
+
+- Source repository: https://github.com/greensock/gsap-skills
+- Imported path: `skills/gsap-performance/`
+- Local path: `skills/gsap-performance/`
+- Import date: 2026-08-15
+- Notes: Imported as part of the official GSAP skills set.
+
+## gsap-utils
+
+- Source repository: https://github.com/greensock/gsap-skills
+- Imported path: `skills/gsap-utils/`
+- Local path: `skills/gsap-utils/`
+- Import date: 2026-08-15
+- Notes: Imported as part of the official GSAP skills set.
+
+## transitions-dev
+
+- Source repository: https://github.com/Jakubantalik/transitions.dev
+- Imported path: `skills/transitions-dev/`
+- Local path: `skills/transitions-dev/`
+- Import date: 2026-08-15
+- Notes: Imported the main transitions skill only. Did not import
+  `refine/.agents/skills/refine-live/`.
+
+## transitions-polish
+
+- Source repository: https://github.com/Jakubantalik/transitions.dev
+- Imported path: `skills/transitions-polish/`
+- Local path: `skills/transitions-polish/`
+- Import date: 2026-08-15
+- Notes: Imported the motion polishing companion skill. Did not import
+  `refine/.agents/skills/refine-live/`.

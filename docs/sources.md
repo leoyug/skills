@@ -16,6 +16,7 @@ This file records where collected skills came from and how they were imported.
 - Imported path: `skills/engineering/grill-with-docs/`
 - Local path: `skills/grill-with-docs/`
 - Import date: 2026-08-11
+- Last updated: 2026-09-11
 - Notes: Imported as a flat skill directory. This skill references
   `grilling` and `domain-modeling`, so both dependencies were imported too.
 
@@ -25,6 +26,7 @@ This file records where collected skills came from and how they were imported.
 - Imported path: `skills/productivity/grilling/`
 - Local path: `skills/grilling/`
 - Import date: 2026-08-11
+- Last updated: 2026-09-11
 - Notes: Imported as a dependency of `grill-with-docs`.
 
 ## domain-modeling
@@ -33,6 +35,7 @@ This file records where collected skills came from and how they were imported.
 - Imported path: `skills/engineering/domain-modeling/`
 - Local path: `skills/domain-modeling/`
 - Import date: 2026-08-11
+- Last updated: 2026-09-11
 - Notes: Imported as a dependency of `grill-with-docs`.
 
 ## web-shader-extractor
@@ -91,6 +94,7 @@ This file records where collected skills came from and how they were imported.
 - Imported path: `.agents/skills/impeccable/`
 - Local path: `skills/impeccable/`
 - Import date: 2026-08-15
+- Last updated: 2026-09-11
 - Notes: Imported only the Codex-compatible skill directory, not the full
   monorepo, CLI, plugin, extension, demo, or multi-provider distributions.
 
@@ -164,6 +168,7 @@ This file records where collected skills came from and how they were imported.
 - Imported path: `skills/transitions-dev/`
 - Local path: `skills/transitions-dev/`
 - Import date: 2026-08-15
+- Last updated: 2026-09-11
 - Notes: Imported the main transitions skill only. Did not import
   `refine/.agents/skills/refine-live/`.
 

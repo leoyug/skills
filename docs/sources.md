@@ -180,3 +180,15 @@ This file records where collected skills came from and how they were imported.
 - Import date: 2026-08-15
 - Notes: Imported the motion polishing companion skill. Did not import
   `refine/.agents/skills/refine-live/`.
+
+## writing-dna-skill
+
+- Source repository: https://github.com/larashero3-dotcom/writing-dna-skill
+- Imported path: `SKILL.md` and its supporting repository files
+- Local path: `skills/writing-dna-skill/`
+- Import date: 2026-09-17
+- Notes: Imported the complete skill package, including Chinese and English
+  corpus templates, workflow and usage-boundary documentation, visual assets,
+  and the bundled `lieflat-less-ai-tone` companion skill. Do not add
+  unauthorized source articles or private writing corpora to this public
+  repository.

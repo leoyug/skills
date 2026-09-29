@@ -8,7 +8,10 @@ This file records where collected skills came from and how they were imported.
 - Imported path: `skills/baoyu-design/`
 - Local path: `skills/baoyu-design/`
 - Import date: 2026-08-10
+- Last updated: 2026-09-30
 - Notes: Imported only the skill directory, not the full upstream repository.
+  Retained two local-only starter component files that are no longer present
+  upstream.
 
 ## grill-with-docs
 
@@ -35,7 +38,7 @@ This file records where collected skills came from and how they were imported.
 - Imported path: `skills/engineering/domain-modeling/`
 - Local path: `skills/domain-modeling/`
 - Import date: 2026-08-11
-- Last updated: 2026-09-11
+- Last updated: 2026-09-30
 - Notes: Imported as a dependency of `grill-with-docs`.
 
 ## web-shader-extractor
@@ -74,6 +77,7 @@ This file records where collected skills came from and how they were imported.
 - Imported path: `skills/character-design/`
 - Local path: `skills/character-design/`
 - Import date: 2026-08-14
+- Last updated: 2026-09-30
 - Notes: Imported only this core skill directory, not the full upstream
   collection. Use for production-ready character design, proportion locks,
   turnarounds, wardrobe states, prop anchors, and AI image/video prompt packets.
@@ -94,7 +98,7 @@ This file records where collected skills came from and how they were imported.
 - Imported path: `.agents/skills/impeccable/`
 - Local path: `skills/impeccable/`
 - Import date: 2026-08-15
-- Last updated: 2026-09-11
+- Last updated: 2026-09-30
 - Notes: Imported only the Codex-compatible skill directory, not the full
   monorepo, CLI, plugin, extension, demo, or multi-provider distributions.
 
@@ -168,7 +172,7 @@ This file records where collected skills came from and how they were imported.
 - Imported path: `skills/transitions-dev/`
 - Local path: `skills/transitions-dev/`
 - Import date: 2026-08-15
-- Last updated: 2026-09-11
+- Last updated: 2026-09-30
 - Notes: Imported the main transitions skill only. Did not import
   `refine/.agents/skills/refine-live/`.
 

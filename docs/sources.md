@@ -196,3 +196,15 @@ This file records where collected skills came from and how they were imported.
   and the bundled `lieflat-less-ai-tone` companion skill. Do not add
   unauthorized source articles or private writing corpora to this public
   repository.
+
+## logo-design
+
+- Source repository: https://github.com/kaankiziltug/logo-design-skill
+- Source commit: `0ecf52e9a4b3ac92b714f7cc6e3148ab8c774134`
+- Imported path: `skills/logo-design/`
+- Local path: `skills/logo-design/`
+- Import date: 2026-10-11
+- Notes: Imported the complete skill package, including its 1,432 reference
+  logo SVGs, catalog, scripts, references, and templates. The logo artwork is
+  trademarked and is not covered by the skill's MIT license; retained the
+  upstream `TRADEMARKS.md` notice alongside the package.

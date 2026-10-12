@@ -29,7 +29,7 @@ This file records where collected skills came from and how they were imported.
 - Imported path: `skills/productivity/grilling/`
 - Local path: `skills/grilling/`
 - Import date: 2026-08-11
-- Last updated: 2026-09-11
+- Last updated: 2026-10-12
 - Notes: Imported as a dependency of `grill-with-docs`.
 
 ## domain-modeling
@@ -98,7 +98,7 @@ This file records where collected skills came from and how they were imported.
 - Imported path: `.agents/skills/impeccable/`
 - Local path: `skills/impeccable/`
 - Import date: 2026-08-15
-- Last updated: 2026-09-30
+- Last updated: 2026-10-12
 - Notes: Imported only the Codex-compatible skill directory, not the full
   monorepo, CLI, plugin, extension, demo, or multi-provider distributions.
 
@@ -172,9 +172,11 @@ This file records where collected skills came from and how they were imported.
 - Imported path: `skills/transitions-dev/`
 - Local path: `skills/transitions-dev/`
 - Import date: 2026-08-15
-- Last updated: 2026-09-30
+- Last updated: 2026-10-12
 - Notes: Imported the main transitions skill only. Did not import
-  `refine/.agents/skills/refine-live/`.
+  `refine/.agents/skills/refine-live/`. Retained the upstream license, which
+  permits using the transitions in personal and commercial projects but
+  restricts repackaging or publishing the collection as a competing library.
 
 ## transitions-polish
 
@@ -182,8 +184,9 @@ This file records where collected skills came from and how they were imported.
 - Imported path: `skills/transitions-polish/`
 - Local path: `skills/transitions-polish/`
 - Import date: 2026-08-15
-- Notes: Imported the motion polishing companion skill. Did not import
-  `refine/.agents/skills/refine-live/`.
+- Last updated: 2026-10-12
+- Notes: Imported the motion polishing companion skill under the upstream
+  license. Did not import `refine/.agents/skills/refine-live/`.
 
 ## writing-dna-skill
 

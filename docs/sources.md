@@ -211,3 +211,29 @@ This file records where collected skills came from and how they were imported.
   logo SVGs, catalog, scripts, references, and templates. The logo artwork is
   trademarked and is not covered by the skill's MIT license; retained the
   upstream `TRADEMARKS.md` notice alongside the package.
+
+## emilkowalski/skills collection
+
+- Source repository: https://github.com/emilkowalski/skills
+- Source commit: `2d228630ba1446365f614a108cb8252f1feda202`
+- Import date: 2026-10-14
+- License: MIT; retained at `docs/licenses/emilkowalski-skills/LICENSE`.
+- Notes: Imported all 15 skill directories and their supporting reference
+  files. Each skill was flattened to its own top-level directory under
+  `skills/` for project-level symlinking.
+- Imported skills:
+  - `skills/animate/` -> `skills/animate/`
+  - `skills/animate-expo/` -> `skills/animate-expo/`
+  - `skills/animation-performance/` -> `skills/animation-performance/`
+  - `skills/animation-vocabulary/` -> `skills/animation-vocabulary/`
+  - `skills/apple-design/` -> `skills/apple-design/`
+  - `skills/ask-sonner/` -> `skills/ask-sonner/`
+  - `skills/break-ui/` -> `skills/break-ui/`
+  - `skills/emil-design-eng/` -> `skills/emil-design-eng/`
+  - `skills/find-animation-opportunities/` -> `skills/find-animation-opportunities/`
+  - `skills/improve-animations/` -> `skills/improve-animations/`
+  - `skills/mobile-native/` -> `skills/mobile-native/`
+  - `skills/pick-ui-library/` -> `skills/pick-ui-library/`
+  - `skills/prototype/` -> `skills/prototype/`
+  - `skills/review-animations/` -> `skills/review-animations/`
+  - `skills/write-swift/` -> `skills/write-swift/`
